@@ -1,5 +1,5 @@
 # Tesla Dashboard
-
+This project features an interactive Power BI dashboard for Tesla cars, providing insights into vehicle performance, capacities, and sales trends over time. The dashboard enables users to analyze detailed metrics for different car models, supporting informed decision-making and strategic planning in automotive sales and marketing.
 
 ![1](https://github.com/user-attachments/assets/6638c4f7-bb1b-4854-a19d-6e62402fa1ad)
 ![2](https://github.com/user-attachments/assets/309ea708-2b79-44a0-9b14-e46cdc637489)
